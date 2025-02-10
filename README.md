@@ -1,2 +1,1 @@
-# svarn-dev
-svarn frontend
+# Svarn Website Dev
